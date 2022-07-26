@@ -66,7 +66,7 @@ https://github.com/BettShawn/User-Login-Registration-with-Firebase/tree/master/a
 
 # License:-
 ---------
-<img src="https://firebasestorage.googleapis.com/v0/b/seven-29b38.appspot.com/o/Quiz%202019%2FPicsArt_01-23-12.41.47.png?alt=media&token=83b3dd63-bd20-4a2a-babb-8e3ff674af11" width="100" height="70" />
+<img src="https://firebasestorage.googleapis.com/v0/b/eazypay-75d00.appspot.com/o/PicsArt_01-21-09.40.54%20(1).png?alt=media&token=fb61c7ee-74bd-430e-9e26-61f79727c513" width="100" height="70" />
 MIT License
 
 Copyright (c) 2020 Developer Bett K. Gideon Powered by KD Creatives.
