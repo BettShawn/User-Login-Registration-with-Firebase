@@ -1,21 +1,10 @@
 #                       *** WELCOME ***
 ----------------------------------------
 
-
-
-	 _.._    _.._     _	    _     _       _  _
-	| |\ \	/ /| |   | |	   | |   | |     | |(_)
-	| | \ \/ / | | __| |	   | |___| | __ _| | _  _ __ ___
-	| |  \__/  | |/ _' |	   | |___| |/ _' | || || '_ ' _ \
-	| |	   | | (_| | _	   | |   | | (_| | || || | | | | |
- 	|_|	   |_|\__._|(_)    |_|   |_|\__._|_||_||_| |_| |_|
-
-
-
 ==> Developer Name:- BettShawn\
 ==> Android App Name:- e-CertificateMakerApp\
-==> Address :- Chatra || Jharkhand 825408 || Kenya\
-==> Copyright 2020 || KD Creatives Inc. 03/02/2019 11:25 PM
+==> Country :- 00100 Nairobi || Kenya\
+==> Copyright 2022 || KD Creatives
 
 # e-CertificateMakerApp
 ----------
@@ -49,7 +38,7 @@ Download free e-certificate templates with formal certificate borders to persona
 # Download APK:-
 --------------
 
-https://github.com/dewaara/OnlineDigitalCertificateMakerApp/tree/master/app/output/apk
+https://github.com/BettShawn/User-Login-Registration-with-Firebase/tree/master/app/output/apk
 
 # e-CertificateMakerApp:-
 --------------- 
@@ -70,17 +59,17 @@ https://github.com/dewaara/OnlineDigitalCertificateMakerApp/tree/master/app/outp
 | PROFILE | LINK |
 | ------ | ------ |
 | Google Play | https://play.google.com/store/apps/dev?id=4777647533601897707&hl=en_IN |
-| GitHub | https://github.com/dewaara |
-| Linkedin | https://www.linkedin.com/in/md-halim-a28812183 |
-| Website | http://mdhalim.simplesite.com/ |
-| Youtube | https://www.youtube.com/channel/UCl7BXKzd8r_Lyly91aMEMqg |
+| GitHub | https://github.com/BettShawn/User-Login-Registration-with-Firebase |
+| Linkedin | https://ke.linkedin.com/in/bett-gideon-7aa2b1188 |
+| Website | https://kdcreativez.blogspot.com/ |
+| Youtube | https://www.youtube.com/channel/UCm52XAmBZAH2B00NcBj9JZw |
 
 # License:-
 ---------
 <img src="https://firebasestorage.googleapis.com/v0/b/seven-29b38.appspot.com/o/Quiz%202019%2FPicsArt_01-23-12.41.47.png?alt=media&token=83b3dd63-bd20-4a2a-babb-8e3ff674af11" width="100" height="70" />
 MIT License
 
-Copyright (c) 2020 Developer Md.Halim Powered by Dewaara Inc.
+Copyright (c) 2020 Developer Bett K. Gideon Powered by KD Creatives.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
