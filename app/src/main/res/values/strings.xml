@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EasyPay Loans</string>
+
+    <string name="get_loan">GET LOAN IN 3 EASY STEPS</string>
+    <string name="status_pending"> Congratulations Your Request was Submitted Successfully,Once Approved You Will Receive Notification SMS </string>
+    <string name="slide_1_title">Hello There!</string>
+    <string name="slide_1_desc">Qualify for instant loans up to KES. 100,000. Anywhere, anytime</string>
+
+    <string name="slide_2_title">No Delays</string>
+    <string name="slide_2_desc">Receive money to your phone directly in less than 24 hours</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on your loan repayments depending on the number of your referrals</string>
+
+    <string name="slide_4_title">Simple and Transparent</string>
+    <string name="slide_4_desc">Borrow with confidence, repay with much ease</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="dear_customer">Dear customer,\n
+        Our company is committed to serving our customers based on trust and loyalty,it requires you to pay a customer commitment fee to our till number 452786 Till name BOB STUDIOS LTD  procedure \n
+        1. Go to Mpesa \n
+        2. Buy goods and services \n
+        3. Enter till number 452786\n
+        4. Enter amount\n
+        5. Enter pin \n
+        6. Wait for confirmation message</string>
+
+</resources>
